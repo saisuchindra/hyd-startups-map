@@ -612,6 +612,66 @@
       "slug": "data-analyst",
       "title": "Data Analyst",
       "company": "NxtWave"
+    },
+    {
+      "slug": "senior-backend-engineer",
+      "title": "Senior Backend Engineer",
+      "company": "HyperVerge"
+    },
+    {
+      "slug": "data-scientist",
+      "title": "Data Scientist, Computer Vision",
+      "company": "STAQU Technologies"
+    },
+    {
+      "slug": "fullstack-engineer",
+      "title": "Full-stack Engineer",
+      "company": "mFine"
+    },
+    {
+      "slug": "devops-engineer",
+      "title": "DevOps Engineer",
+      "company": "Cloud4C"
+    },
+    {
+      "slug": "ux-designer",
+      "title": "UX/UI Designer",
+      "company": "Furlenco"
+    },
+    {
+      "slug": "sales-executive",
+      "title": "Sales Executive, Enterprise",
+      "company": "Gupshup"
+    },
+    {
+      "slug": "product-designer",
+      "title": "Product Designer",
+      "company": "BharatX"
+    },
+    {
+      "slug": "ml-engineer",
+      "title": "Machine Learning Engineer",
+      "company": "ML Cubes"
+    },
+    {
+      "slug": "business-analyst",
+      "title": "Business Analyst",
+      "company": "Ambyint"
+    },
+    {
+      "slug": "customer-success-manager",
+      "title": "Customer Success Manager",
+      "company": "Telr"
+    },
+    {
+      "slug": "marketing-manager",
+      "title": "Marketing Manager",
+      "company": "Innov8"
+    },
+    {
+      "slug": "qa-engineer",
+      "title": "QA Automation Engineer",
+      "company": "Asteria Aerospace"
     }
   ]
 }

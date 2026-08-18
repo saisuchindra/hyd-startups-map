@@ -1,0 +1,29 @@
+{
+  "buildCommand": "next build",
+  "devCommand": "next dev -- --hostname 0.0.0.0",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_API_URL": {
+      "description": "Public API URL",
+      "default": "http://localhost:3000/api"
+    },
+    "NEXT_PUBLIC_MAP_CENTER_LAT": {
+      "description": "Default map center latitude",
+      "default": "17.385"
+    },
+    "NEXT_PUBLIC_MAP_CENTER_LNG": {
+      "description": "Default map center longitude",
+      "default": "78.4867"
+    },
+    "NEXT_PUBLIC_MAP_ZOOM": {
+      "description": "Default map zoom level",
+      "default": "11"
+    }
+  },
+  "regions": ["blr1", "bom1"],
+  "functions": {
+    "api/**": {
+      "maxDuration": 60
+    }
+  }
+}

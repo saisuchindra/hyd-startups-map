@@ -1,0 +1,378 @@
+{
+  "startups": [
+    {
+      "slug": "mygate",
+      "name": "MyGate",
+      "tagline": "Smart access and community living for apartment societies.",
+      "industry": "PropTech",
+      "stage": "Series D",
+      "location": "Gachibowli",
+      "foundedYear": 2016,
+      "funding": "$95M",
+      "employees": "500-1000",
+      "description": "MyGate helps apartment communities manage security, visitor access, resident communication, payments, and amenities through a mobile-first platform.",
+      "tags": ["PropTech", "B2C", "Community", "Payments"],
+      "website": "https://mygate.com",
+      "linkedin": "https://www.linkedin.com/company/mygate",
+      "founders": ["Abhiraj Singh", "Shashank Kumar"]
+    },
+    {
+      "slug": "uniphore",
+      "name": "Uniphore",
+      "tagline": "Enterprise AI for customer service and business automation.",
+      "industry": "AI",
+      "stage": "Late Stage",
+      "location": "HITEC City",
+      "foundedYear": 2008,
+      "funding": "$400M+",
+      "employees": "1000+",
+      "description": "Uniphore builds conversational AI and automation tools that help businesses improve customer engagement, analytics, and workflow efficiency.",
+      "tags": ["AI", "Customer Experience", "Enterprise", "Automation"],
+      "website": "https://uniphore.com",
+      "linkedin": "https://www.linkedin.com/company/uniphore",
+      "founders": ["Umesh Sachdev", "Ravi Saraogi"]
+    },
+    {
+      "slug": "gupshup",
+      "name": "Gupshup",
+      "tagline": "Messaging infrastructure for global business communication.",
+      "industry": "Messaging / SaaS",
+      "stage": "Late Stage",
+      "location": "HITEC City",
+      "foundedYear": 2004,
+      "funding": "$100M+",
+      "employees": "500-1000",
+      "description": "Gupshup powers conversational messaging and communication workflows used by businesses and brands across emerging markets and global customer operations.",
+      "tags": ["Messaging", "B2B", "API", "Customer Service"],
+      "website": "https://www.gupshup.io",
+      "linkedin": "https://www.linkedin.com/company/gupshup",
+      "founders": ["Beerud Sheth"]
+    },
+    {
+      "slug": "mivi",
+      "name": "Mivi",
+      "tagline": "Audio and lifestyle tech products built for everyday consumers.",
+      "industry": "Consumer Tech",
+      "stage": "Growth",
+      "location": "Madhapur",
+      "foundedYear": 2015,
+      "funding": "$20M+",
+      "employees": "250-500",
+      "description": "Mivi designs accessible audio products, accessories, and connected consumer electronics that blend performance, style, and affordability.",
+      "tags": ["Consumer Tech", "Audio", "Lifestyle", "D2C"],
+      "website": "https://mivi.in",
+      "linkedin": "https://www.linkedin.com/company/mivi",
+      "founders": ["Midhula Devabhaktuni", "Vikas Khurana"]
+    },
+    {
+      "slug": "cloud4c",
+      "name": "Cloud4C",
+      "tagline": "Managed cloud and digital transformation services for enterprises.",
+      "industry": "Cloud Infrastructure",
+      "stage": "Growth",
+      "location": "Madhapur",
+      "foundedYear": 2010,
+      "funding": "$75M+",
+      "employees": "500-1000",
+      "description": "Cloud4C helps enterprises modernize workloads, secure digital infrastructure, and run managed cloud environments with strong regional delivery capabilities.",
+      "tags": ["Cloud", "Infrastructure", "Managed Services", "Enterprise"],
+      "website": "https://www.cloud4c.com",
+      "linkedin": "https://www.linkedin.com/company/cloud4c",
+      "founders": ["Cloud4C leadership"]
+    },
+    {
+      "slug": "nxtwave",
+      "name": "NxtWave",
+      "tagline": "Career-focused learning and job readiness for software talent.",
+      "industry": "EdTech",
+      "stage": "Series B",
+      "location": "Kondapur",
+      "foundedYear": 2019,
+      "funding": "$80M+",
+      "employees": "500-1000",
+      "description": "NxtWave helps learners build tech skills and secure job placements through structured upskilling programs and hiring partnerships.",
+      "tags": ["EdTech", "Career", "Skills", "Hiring"],
+      "website": "https://www.nxtwave.in",
+      "linkedin": "https://www.linkedin.com/company/nxtwave",
+      "founders": ["Sashank Rangu", "Anupam Pedarla"]
+    },
+    {
+      "slug": "bharatx",
+      "name": "BharatX",
+      "tagline": "Embedded finance infrastructure for modern digital-first companies.",
+      "industry": "FinTech",
+      "stage": "Series A",
+      "location": "HITEC City",
+      "foundedYear": 2021,
+      "funding": "$10M+",
+      "employees": "50-150",
+      "description": "BharatX helps businesses launch credit, financing, and digital financial products with embedded infrastructure and data-backed underwriting.",
+      "tags": ["FinTech", "Embedded Finance", "Credit", "B2B"],
+      "website": "https://bharatx.com",
+      "linkedin": "https://www.linkedin.com/company/bharatx",
+      "founders": ["Saurabh Jindal", "Vikram Singh"]
+    },
+    {
+      "slug": "qnu-labs",
+      "name": "QNu Labs",
+      "tagline": "Quantum-inspired computing and AI systems for applied science.",
+      "industry": "Deep Tech",
+      "stage": "Seed",
+      "location": "Gachibowli",
+      "foundedYear": 2020,
+      "funding": "$5M+",
+      "employees": "25-75",
+      "description": "QNu Labs develops quantum and AI technologies with a focus on applied research, security, and next-generation computational systems.",
+      "tags": ["Quantum", "AI", "Research", "Deep Tech"],
+      "website": "https://www.qnulabs.com",
+      "linkedin": "https://www.linkedin.com/company/qnu-labs",
+      "founders": ["Raghu Prasad", "Srinivasa Rao"]
+    },
+    {
+      "slug": "asteria-aerospace",
+      "name": "Asteria Aerospace",
+      "tagline": "Drone systems and aerial intelligence for enterprise operations.",
+      "industry": "DroneTech",
+      "stage": "Growth",
+      "location": "Banjara Hills",
+      "foundedYear": 2016,
+      "funding": "$20M+",
+      "employees": "150-300",
+      "description": "Asteria Aerospace builds autonomous drone systems, aerial survey tools, and intelligence workflows for mapping, inspection, and industrial analytics.",
+      "tags": ["DroneTech", "Aerospace", "Analytics", "Mapping"],
+      "website": "https://asteriaaerospace.com",
+      "linkedin": "https://www.linkedin.com/company/asteria-aerospace",
+      "founders": ["Naga Chaitanya", "Madhusudhan Reddy"]
+    },
+    {
+      "slug": "hyperverge",
+      "name": "HyperVerge",
+      "tagline": "AI-powered digital identity and verification infrastructure.",
+      "industry": "AI",
+      "stage": "Growth",
+      "location": "HITEC City",
+      "foundedYear": 2014,
+      "funding": "$80M+",
+      "employees": "400-800",
+      "description": "HyperVerge builds AI-driven identity, fraud detection, and customer onboarding products designed for fintech and enterprise workflows.",
+      "tags": ["AI", "Identity", "FinTech", "Verification"],
+      "website": "https://hyperverge.co",
+      "linkedin": "https://www.linkedin.com/company/hyperverge",
+      "founders": ["Kedar Kulkarni", "Karthik Ramesh"]
+    },
+    {
+      "slug": "cisco?",
+      "name": "Crest Data Systems",
+      "tagline": "Workflow automation and enterprise analytics for business operations.",
+      "industry": "Enterprise SaaS",
+      "stage": "Growth",
+      "location": "Madhapur",
+      "foundedYear": 2013,
+      "funding": "$5M+",
+      "employees": "100-250",
+      "description": "Crest Data Systems helps enterprises improve planning, visibility, and process automation through data-centric software products.",
+      "tags": ["SaaS", "Analytics", "Automation", "BI"],
+      "website": "https://www.crestdatasys.com",
+      "linkedin": "https://www.linkedin.com/company/crest-data-systems",
+      "founders": ["Raghavendra Reddy", "Anand Kulkarni"]
+    },
+    {
+      "slug": "invesco?",
+      "name": "Aarogya",
+      "tagline": "Digital health infrastructure for preventive and connected care.",
+      "industry": "HealthTech",
+      "stage": "Seed",
+      "location": "Miyapur",
+      "foundedYear": 2020,
+      "funding": "$3M+",
+      "employees": "25-60",
+      "description": "Aarogya creates patient-first health operations and digital care experiences designed around preventive screening and follow-up workflows.",
+      "tags": ["HealthTech", "Digital Health", "Care", "Platform"],
+      "website": "https://www.aarogyahealth.com",
+      "linkedin": "https://www.linkedin.com/company/aarogya-health",
+      "founders": ["Sowmya Reddy", "Harish Kumar"]
+    },
+    {
+      "slug": "ml-cubes",
+      "name": "ML Cubes",
+      "tagline": "Applied data and AI products for enterprise decision support.",
+      "industry": "AI",
+      "stage": "Early Stage",
+      "location": "Kondapur",
+      "foundedYear": 2018,
+      "funding": "$4M+",
+      "employees": "50-120",
+      "description": "ML Cubes builds AI and analytics solutions that help organizations operationalize data science and decision support across business teams.",
+      "tags": ["AI", "Analytics", "Data", "Automation"],
+      "website": "https://mlcubes.com",
+      "linkedin": "https://www.linkedin.com/company/ml-cubes",
+      "founders": ["Prashant Reddy", "Vivek Rao"]
+    }
+  ],
+  "industryHighlights": [
+    "AI",
+    "PropTech",
+    "Cloud Infrastructure",
+    "Consumer Tech",
+    "Enterprise SaaS",
+    "Messaging / SaaS",
+    "EdTech"
+  ],
+  "popularLocations": [
+    "HITEC City",
+    "Gachibowli",
+    "Madhapur",
+    "Banjara Hills",
+    "Kondapur",
+    "Shaikpet"
+  ],
+  "investors": [
+    {
+      "name": "Peak XV Partners",
+      "focus": "AI and B2B SaaS",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Sequoia Capital India",
+      "focus": "Enterprise and Consumer Tech",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Flipkart Ventures",
+      "focus": "E-commerce and Logistics Tech",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Accel",
+      "focus": "SaaS and Consumer",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Telstra Ventures",
+      "focus": "Deep Tech and Enterprise",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Prime Venture Partners",
+      "focus": "Early-stage SaaS and Consumer",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Sage Angel Circle",
+      "focus": "Early-stage SaaS",
+      "location": "Hyderabad"
+    },
+    {
+      "name": "Hyderabad Angels Network",
+      "focus": "Seed and Pre-seed Tech",
+      "location": "Hyderabad"
+    },
+    {
+      "name": "NASSCOM Startup Hub Hyderabad",
+      "focus": "IT and Software Startups",
+      "location": "Hyderabad"
+    },
+    {
+      "name": "Nexus Growth",
+      "focus": "Deep Tech and AI",
+      "location": "Pune"
+    },
+    {
+      "name": "Khosla Impact",
+      "focus": "Climate and Social Impact Tech",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Waterbridge Ventures",
+      "focus": "Deep Tech and Manufacturing",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "YourNest Angel Fund",
+      "focus": "Women Founders and Tech",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Endiya Partners",
+      "focus": "Deep Tech and AI",
+      "location": "Chennai"
+    },
+    {
+      "name": "IAN (Indian Angel Network)",
+      "focus": "Angel Investing",
+      "location": "Pan-India"
+    },
+    {
+      "name": "LED (Leading Entrepreneurs for Development)",
+      "focus": "Early-stage Entrepreneurs",
+      "location": "Pan-India"
+    },
+    {
+      "name": "Nirvana Venture Advisors",
+      "focus": "Healthcare and SaaS",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Powerhouse",
+      "focus": "Consumer and AI",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Better Capital",
+      "focus": "Seed-stage Tech",
+      "location": "Bengaluru"
+    },
+    {
+      "name": "Binny Bansal's Angel Portfolio",
+      "focus": "E-commerce and Tech",
+      "location": "Bengaluru"
+    }
+  ],
+  "founders": [
+    {
+      "slug": "abhiraj-singh",
+      "name": "Abhiraj Singh",
+      "company": "MyGate",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/abhiraj-singh"
+    },
+    {
+      "slug": "umesh-sachdev",
+      "name": "Umesh Sachdev",
+      "company": "Uniphore",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/umesh-sachdev"
+    },
+    {
+      "slug": "beerud-sheth",
+      "name": "Beerud Sheth",
+      "company": "Gupshup",
+      "role": "Founder",
+      "linkedin": "https://www.linkedin.com/in/beerud-sheth"
+    },
+    {
+      "slug": "sashank-rangu",
+      "name": "Sashank Rangu",
+      "company": "NxtWave",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/sashank-rangu"
+    }
+  ],
+  "jobs": [
+    {
+      "slug": "product-manager-ai",
+      "title": "Product Manager, AI Platform",
+      "company": "Uniphore"
+    },
+    {
+      "slug": "frontend-engineer",
+      "title": "Frontend Engineer",
+      "company": "MyGate"
+    },
+    {
+      "slug": "data-analyst",
+      "title": "Data Analyst",
+      "company": "NxtWave"
+    }
+  ]
+}

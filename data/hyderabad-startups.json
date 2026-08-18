@@ -532,6 +532,69 @@
       "company": "NxtWave",
       "role": "Co-founder",
       "linkedin": "https://www.linkedin.com/in/sashank-rangu"
+    },
+    {
+      "slug": "kedar-kulkarni",
+      "name": "Kedar Kulkarni",
+      "company": "HyperVerge",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/kedar-kulkarni"
+    },
+    {
+      "slug": "arnav-sinha",
+      "name": "Arnav Sinha",
+      "company": "Furlenco",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/arnav-sinha"
+    },
+    {
+      "slug": "ashish-saraf",
+      "name": "Ashish Saraf",
+      "company": "mFine",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/ashish-saraf"
+    },
+    {
+      "slug": "samveg-saxena",
+      "name": "Samveg Saxena",
+      "company": "Ambyint",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/samveg-saxena"
+    },
+    {
+      "slug": "ritesh-malik",
+      "name": "Ritesh Malik",
+      "company": "Innov8",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/ritesh-malik"
+    },
+    {
+      "slug": "abhishek-sinha",
+      "name": "Abhishek Sinha",
+      "company": "STAQU Technologies",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/abhishek-sinha"
+    },
+    {
+      "slug": "saurabh-jindal",
+      "name": "Saurabh Jindal",
+      "company": "BharatX",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/saurabh-jindal"
+    },
+    {
+      "slug": "raghu-prasad",
+      "name": "Raghu Prasad",
+      "company": "QNu Labs",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/raghu-prasad"
+    },
+    {
+      "slug": "naga-chaitanya",
+      "name": "Naga Chaitanya",
+      "company": "Asteria Aerospace",
+      "role": "Co-founder",
+      "linkedin": "https://www.linkedin.com/in/naga-chaitanya"
     }
   ],
   "jobs": [
